@@ -1,4 +1,4 @@
 Word = "devopsassessment"
 Len(word)
-Print("number of lattets in word devops assistant is" Len(word))
+Print("number of lattets in word devopsassessment is" Len(word))
 
