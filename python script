@@ -1,4 +1,4 @@
 Word = "devopsassessment"
-Len(word)
-Print("number of lattets in word devopsassessment is" Len(word))
+len(word)
+Print("number of lattets in word devopsassessment is" len(word))
 
