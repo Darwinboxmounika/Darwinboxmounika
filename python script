@@ -10,3 +10,5 @@ findLen(str):
   
 str = "devopsassessment"
 print(findLen(str))
+
+output:16
